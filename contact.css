@@ -1,0 +1,99 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.one{
+    font-size:70px ;
+      padding-top: 90px;
+  
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F2EDE1;
+    
+}
+.hotel{
+  
+    text-align: center;
+    background-color:#2E2E2E;
+    color:  #F2EDE1;
+}
+.two{
+    font-size:32.424px ;
+    padding-top: 30px;
+    margin-left: 500px;
+    padding-bottom: 180px;
+    
+}
+.three{
+   
+    font-size: 16px;
+    padding-top: 35px;
+   
+}
+.suggestion{
+    text-align: center;
+    padding-top: 50px;
+}
+h3{
+    padding: 10px;
+    margin-right: 520px;
+}
+.name,.name1{
+   
+    padding: 14px;
+    width: 300px;
+    border-radius: 10px;
+    border: white;
+}
+.mail{
+    padding: 14px;
+    width: 630px;
+    border-radius: 10px;
+    border: white;
+}
+.ask{
+    padding: 14px;
+    width: 630px;
+    border-radius: 10px;
+    border: white;
+    height: 170px;
+}
+.ask1{
+    margin-left: 99px;
+}
+p{
+    padding: 20px;
+    margin-right: 490px;
+    font-size: 14px;
+   
+}
+button{
+    padding: 25px;
+    height: 75px;
+    width: 150px;
+    border-radius: 10px;
+    margin-right: 490px;
+
+   background-color:  #b79c5a;
+    color: white;
+    font-size: 25px;
+   
+    
+    border:  none;
+}
+button:hover{
+    background-color: #2E2E2E;
+    color: #b79c5a;
+}
+iframe{
+    position: sticky;
+    top: 0px;
+}
+span{
+   font-size: small;
+   color: red;
+}
+

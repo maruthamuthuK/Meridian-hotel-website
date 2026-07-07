@@ -1,0 +1,97 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.one{
+    font-size:60.68px ;
+      padding-top: 90px;
+  
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F2EDE1;
+    
+}
+.hotel{
+  
+    text-align: center;
+ 
+  
+    background-color:#2E2E2E;
+    color: white;
+}
+.two{
+    font-size:32.424px ;
+    padding-top: 30px;
+    
+}
+.three{
+   
+    font-size: 15.92px;
+    padding-top: 35px;
+   
+}
+.button{
+  height: 70px;
+  width: 200px;
+  border-radius: 10px;
+  background-color: #b79c5a;
+  color:white;
+  font-size: 20px;
+  font-weight: bold;
+  border: none;
+  
+}
+.book{
+    padding: 20px;
+   
+}
+
+
+.boutique{
+    width: 1300px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    margin: 80px ;
+    padding: 80px;
+}
+
+.word{
+    width: 600px;
+    text-align: center;
+}
+
+.word h1{
+    font-size: 50px;
+    color: black;
+    margin-bottom: 30px;
+}
+
+.word p{
+    font-size: 20px;
+    color: black;
+}
+
+.image{
+    width: 500px;
+   
+}
+
+.image img{
+    width: 450px;
+    height:300px;
+}
+.button:hover{
+    
+    background-color: black;
+    color: #b79c5a;
+}
+iframe{
+    position: sticky;
+    top: 0px;
+}

@@ -1,0 +1,62 @@
+
+*{
+    margin: 0px;
+     font-family: 'Montserrat', sans-serif;
+}
+
+.hotel{
+    display: flex;
+    background-color: #F2EDE1;
+    justify-content: space-evenly;
+   position: sticky;
+    top: 0px;
+}
+.top{
+    margin-top: 0px;
+
+    font-weight: bold;
+    padding: 30px;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   gap: 30px;
+   font-size: 20px;
+   list-style: none;
+}
+.king{
+    background-color: #b79c5a;
+     height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    font-size: 20px;
+    color:white;
+    border: none;
+}
+.king:hover{
+     background-color: black;
+    color: #b79c5a;
+
+}
+a{
+    padding: 10px;
+    text-decoration: none;
+    color:black
+}
+a:hover{
+    color:#b79c5a;
+    text-decoration: underline;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.move{
+    margin-right: 100px;
+}

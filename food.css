@@ -1,0 +1,78 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.one{
+    font-size:70px ;
+      padding-top: 90px;
+  
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F2EDE1;
+    
+}
+.hotel{
+  
+    text-align: center;
+    background-color:#2E2E2E;
+    color: white;
+}
+.two{
+    font-size:32.424px ;
+    padding-top: 30px;
+    
+}
+.three{
+   
+    font-size: 16px;
+    padding-top: 35px;
+   
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f3f3f3;
+    padding: 50px;
+    width: 1200px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.word{
+    width: 500px;
+    text-align: center;
+}
+
+.word img{
+    width: 150px;
+    margin-bottom: 30px;
+}
+
+.word p{
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.word h2{
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.image{
+    width: 45%;
+}
+
+.image img{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+iframe{
+    position: sticky;
+    top: 0px;
+}

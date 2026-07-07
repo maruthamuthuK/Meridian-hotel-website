@@ -1,0 +1,167 @@
+
+*{
+    margin: 0px;
+   
+
+}
+.hotel{
+    display: flex;
+    background-color: #F2EDE1;
+    justify-content: space-evenly;
+    position: sticky;
+    top: 0px;
+    
+}
+.top{
+    margin-top: 0px;
+   font-weight: bold;
+    padding: 20px;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   gap: 30px;
+   font-size: 20px;
+   list-style: none;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+   background-image: url("backround 1.png");
+    
+    background-size: cover;
+    background-position: center;
+}
+.star{
+    list-style: none;
+    text-align: center;
+    color:white;
+    
+   
+}
+.size {
+    opacity: 0.5;
+    padding-top: 100px;
+    font-size: 30px;
+    margin: 0;
+}
+.word{
+    font-size: 10px;
+   
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 70px;
+   color:white;
+}
+.button{
+    text-align: center;
+    margin-top: 20px;
+    
+
+    
+}
+.left{
+    height: 64px;
+    width: 175.8px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: #b79c5a;
+    border:none
+}
+.right{
+     height: 64px;
+    width: 175.8px;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-left: 20px;
+    background-color: beige;
+    border: none;
+}
+.left:hover{
+
+    background-color: black;
+    color: #b79c5a;
+}
+.right:hover{
+
+    background-color: black;
+    color: white;
+}
+.muthu{
+    display: flex;
+    justify-content: center;
+    color:white;
+    
+}
+ul{
+    margin-top: 50px;
+    list-style: none;
+}
+.ten{
+    font-size: 40px;
+     font-weight: bolder;
+}
+.one{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.two{
+    font-size: 40px;
+    font-weight: bolder;
+}
+li{
+    margin-top: 10px;
+    font-size: 15;
+}
+.bottom{
+    display: flex;
+    justify-self: center;
+}
+.three{
+    margin-top: 50px;
+    font-size: 18px;
+    font-weight: bolder;
+    color:white;
+    text-align: center;
+}
+.king{
+    background-color: #b79c5a;
+     height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    font-size: 20px;
+    color:white;
+    border: none;
+}
+
+.backround{
+    
+    background-image: url(backround\ 1.png);
+    background-size: cover;
+    background-position: center;
+   
+   }
+.king:hover{
+     background-color: black;
+    color: #b79c5a;
+
+}
+a{
+    padding: 10px;
+    text-decoration: none;
+    color:black
+}
+a:hover{
+    color:#b79c5a;
+    text-decoration: underline;
+}
+.move{
+    margin-right: 100px;
+}
+.lot{
+    margin-bottom: 100px;
+}
+
+
