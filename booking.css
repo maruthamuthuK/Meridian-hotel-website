@@ -1,0 +1,85 @@
+body{
+    background-color: #F9F7F2;
+}
+
+.twoo{
+    background-color: #F4EFDE;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 25px;
+     margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    border-radius: 50px;
+}
+
+
+.reser{
+    color: orange;
+    text-align: center;
+    font-size: 30px;
+}
+.onee{
+    background-color: #F4EFDE;
+    text-align: center;
+    font-size: 25px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 60px;
+}
+.checkin{
+    display: flex;
+    justify-content: space-evenly;
+}
+.checkout{
+    display: flex;
+    justify-content: space-evenly;
+}
+input[type="date"], input[type="time"] {
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+select {
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+input[type="text"], input[type="tel"], input[type="email"] {
+    padding: 5px;
+    margin: 20px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.submit{
+    text-align: center;
+    margin:20px;
+    padding: 20px;
+}
+button{
+    height: 50px;
+    width: 250px;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: yellow;
+}
+button:hover{
+    background-color: orange;
+    color: white;
+}
+
+.main{
+    background-color:#F9F7F2;
+}
+.hiii{
+    padding-top: 30px;
+}
+:placeholder-shown{
+    width: 250px;
+    height: 30px;
+   
+}
