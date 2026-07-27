@@ -98,21 +98,24 @@ iframe{
 
 
   .word{
-        width:500px;
+        width:auto;
         height: 500px;
         
     }
     .image{
-        width: 500px;
+        width: 400px;
         height: 500px;
     }
     .container{
         flex-direction: column;
         padding: 20px;
-        width: 500px;
+        width: auto;
     }
     iframe{
         position:static;
+    }
+    image{
+        width: auto;
     }
 
 
