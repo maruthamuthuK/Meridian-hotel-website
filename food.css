@@ -109,7 +109,7 @@ iframe{
     .container{
         flex-direction: column;
         padding: 20px;
-        width: 100%;
+        width: 500px;
     }
     iframe{
         position:static;
