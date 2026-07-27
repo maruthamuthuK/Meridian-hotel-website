@@ -112,7 +112,7 @@ iframe{
 
     iframe{
         width: 100%;
-        height: 600px;   /* Increase if your page is longer */
+        height: 580px;   /* Increase if your page is longer */
     }
      .hotel{
         display: flex;
