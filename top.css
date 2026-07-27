@@ -64,9 +64,9 @@ html, body{
     .top{
         flex-direction: column;
         gap: 30px;
-        position: sticky;
-        top:0px;
-        height: 350px;
+        position:relative;
+        
+    
     }
     .move{
         margin-right: 0px;
