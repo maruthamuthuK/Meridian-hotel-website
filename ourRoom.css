@@ -59,3 +59,41 @@ iframe{
     position: sticky;
     top: 0px;
 }
+iframe{
+    width: 100%;
+    height: auto;
+    border: none;
+    display: block;
+}
+iframe{
+    position: sticky;
+    top: 0px;
+}
+
+@media screen and (max-width:850px){
+
+    iframe{
+        width: 100%;
+        height: 580px;  
+    }
+
+    .ten{
+        flex-direction: row;
+        overflow-x: scroll;
+        margin: 0;
+    }
+}
+@media screen and (max-width: 850px){
+    .foot{
+        flex-direction: column;
+        gap: 30px;
+        padding: 30px;
+        font-size: 20px;
+        align-items: center;
+        gap: 30px;
+    }
+    .four{
+        margin-top: 0px;
+    }
+}
+   

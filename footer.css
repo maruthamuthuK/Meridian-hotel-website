@@ -67,3 +67,17 @@ li{
 span{
     font-size: 25px;
 }
+
+@media screen and (max-width: 850px){
+    .foot{
+        flex-direction: column;
+        gap: 30px;
+        padding: 30px;
+        font-size: 20px;
+        align-items: center;
+        gap: 30px;
+    }
+    .four{
+        margin-top: 0px;
+    }
+}

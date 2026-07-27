@@ -97,3 +97,34 @@ span{
    color: red;
 }
 
+iframe{
+    width: 100%;
+    height: auto;
+    border: none;
+    display: block;
+}
+iframe{
+    position: sticky;
+    top: 0px;
+}
+
+@media screen and (max-width:850px){
+
+    iframe{
+        width: 100%;
+        height: 650px;   /* Increase if your page is longer */
+    }
+     .hotel{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .ask1{
+        display: flex;
+        flex-direction: column;
+        margin-left: 0px;
+    }
+
+}
+
+
