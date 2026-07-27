@@ -124,6 +124,16 @@ iframe{
         flex-direction: column;
         margin-left: 0px;
     }
+    
+    .mail{
+        width: 500px;
+       
+    }
+    .ask{
+     width: 500px;
+     height:200px;
+    
+    }
 
 }
 
