@@ -137,7 +137,18 @@ iframe{
     .one{
         width:300px;
     }
+    button{
+        margin-bottom: 50px;
+    }
+    p{
+        margin-right: 200px;
+    }
+    h3{
+        margin-right: 300px;
+    }
+    .ask1{
+        margin-right: 290px;
+    }
 
 }
-
 
