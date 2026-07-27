@@ -118,12 +118,14 @@ iframe{
         display: flex;
         flex-direction: column;
         align-items: center;
+        padding: 50px;
+      
     }
     .two{
-        margin-left: 280px;
+        margin-left: 270px;
     }
     
-    }
+    
     .ask1{
         display: flex;
         flex-direction: column;
@@ -155,5 +157,5 @@ iframe{
         margin-right: 290px;
     }
 
-}
 
+}
