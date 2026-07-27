@@ -156,6 +156,9 @@ iframe{
     .ask1{
         margin-right: 290px;
     }
+    iframe{
+        position:static;
+    }
 
 
 }

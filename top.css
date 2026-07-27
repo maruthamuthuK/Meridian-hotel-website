@@ -64,11 +64,12 @@ html, body{
     .top{
         flex-direction: column;
         gap: 30px;
-        position:;
+    
         
     
     }
     .move{
         margin-right: 0px;
     }
+    
 }

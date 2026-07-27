@@ -95,5 +95,8 @@ iframe{
     .four{
         margin-top: 0px;
     }
+    iframe{
+        position:static;
+    }
 }
    
