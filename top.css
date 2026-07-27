@@ -64,6 +64,7 @@ html, body{
     .top{
         flex-direction: column;
         gap: 30px;
+        position:static;
     
         
     
