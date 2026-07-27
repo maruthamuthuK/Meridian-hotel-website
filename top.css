@@ -66,6 +66,7 @@ html, body{
         gap: 30px;
         position: sticky;
         top:0px;
+        height: 350px;
     }
     .move{
         margin-right: 0px;
